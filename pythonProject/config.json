@@ -1,0 +1,14 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/selfcare",
+    "prod_uri": "mysql://root:@localhost/selfcare",
+    "fb_url": "https://facebook.com",
+    "tw_url": "https://twitter.com",
+    "gh_url": "https://github.com",
+    "gmail-user":"raifak53@gmail.com",
+    "gmail-password":"xqhckffncircyfgl",
+    "no_of_posts": 4
+  }
+}
